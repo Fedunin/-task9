@@ -1,0 +1,15 @@
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\bin\Debug\net6.0\Task64.exe
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\bin\Debug\net6.0\Task64.deps.json
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\bin\Debug\net6.0\Task64.runtimeconfig.json
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\bin\Debug\net6.0\Task64.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\bin\Debug\net6.0\Task64.pdb
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\Task64.csproj.AssemblyReference.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\Task64.AssemblyInfoInputs.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\Task64.AssemblyInfo.cs
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\Task64.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\Task64.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\refint\Task64.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\Task64.pdb
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\Task64.genruntimeconfig.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 9. Рекурсия\-task9\Task64\obj\Debug\net6.0\ref\Task64.dll
